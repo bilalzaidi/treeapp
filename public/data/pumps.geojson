@@ -1822,7 +1822,7 @@
 { "type": "Feature", "properties": { "id": 7857659290, "check_date": "2020-09-28", "pump:status": "funktionsfähig", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.3010463, 52.6216139 ] } },
 { "type": "Feature", "properties": { "id": 7865868645, "check_date": "2020-09-01", "pump:status": "defekt", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.3830769, 52.4583572 ] } },
 { "type": "Feature", "properties": { "id": 7865868646, "check_date": "2020-09-01", "pump:status": "defekt", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.3728325, 52.461401 ] } },
-{ "type": "Feature", "properties": { "id": 7873264803, "check_date": null, "pump:status": "unbekannt", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.2699158, 52.479036 ] } },
+{ "type": "Feature", "properties": { "id": 7873264803, "check_date": "2021-03-14", "pump:status": "unbekannt", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.2699158, 52.479036 ] } },
 { "type": "Feature", "properties": { "id": 7878255157, "check_date": "2020-09-04", "pump:status": "funktionsfähig", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.3852811, 52.4271605 ] } },
 { "type": "Feature", "properties": { "id": 7878255158, "check_date": "2020-09-04", "pump:status": "funktionsfähig", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.4057123, 52.4393651 ] } },
 { "type": "Feature", "properties": { "id": 7878255159, "check_date": "2020-09-04", "pump:status": "funktionsfähig", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.3863746, 52.4337685 ] } },
@@ -1857,6 +1857,10 @@
 { "type": "Feature", "properties": { "id": 8001089846, "check_date": "2020-10-07", "pump:status": "funktionsfähig", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.3631298, 52.5641073 ] } },
 { "type": "Feature", "properties": { "id": 8001089847, "check_date": "2020-10-05", "pump:status": "funktionsfähig", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.2708089, 52.5349993 ] } },
 { "type": "Feature", "properties": { "id": 8001190316, "check_date": "2020-10-01", "pump:status": "funktionsfähig", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.2687175, 52.517765 ] } },
-{ "type": "Feature", "properties": { "id": 8467043128, "check_date": "2021-02-28", "pump:status": "defekt", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.3359615, 52.5061871 ] } }
+{ "type": "Feature", "properties": { "id": 8467043128, "check_date": "2021-02-28", "pump:status": "defekt", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.3359615, 52.5061871 ] } },
+{ "type": "Feature", "properties": { "id": 8533723740, "check_date": "2021-03-14", "pump:status": "unbekannt", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.280729, 52.4690319 ] } },
+{ "type": "Feature", "properties": { "id": 8533723741, "check_date": "2021-03-14", "pump:status": "unbekannt", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.2828507, 52.4765768 ] } },
+{ "type": "Feature", "properties": { "id": 8533723742, "check_date": "2021-03-14", "pump:status": "unbekannt", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.2788243, 52.4798246 ] } },
+{ "type": "Feature", "properties": { "id": 8533723743, "check_date": "2021-03-14", "pump:status": "unbekannt", "pump:style:Lauchhammer": null }, "geometry": { "type": "Point", "coordinates": [ 13.2621683, 52.4858092 ] } }
 ]
 }
